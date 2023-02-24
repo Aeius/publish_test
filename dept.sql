@@ -1,7 +1,7 @@
 create database lecture;
 use lecture;
 create table dept(
-        detpno int,
+        deptno int,
         dname varchar(10),
         loc varchar(10) 
 );
